@@ -11,4 +11,3 @@ Para mí la cultura de un desarrollador de software se basa en lo siguiente:
 - Autodidacta
 - Honestidad
 - Respeto
-- 
